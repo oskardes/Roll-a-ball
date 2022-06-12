@@ -25,7 +25,7 @@ Project is created with:
 ![Fist scene](./Screenshoot/Roll_a_Ball_yMzSKhdiXX.jpg)
 
 * Second scene
-![Second scene](.Screenshoot/Roll_a_Ball_C0UkEoen9g.jpg)
+![Second scene](./Screenshoot/Roll_a_Ball_C0UkEoen9g.jpg)
 
 * Second scene with lava and particle system
 ![Second scene](./Screenshoot/Roll_a_Ball_EhuGCCk7q3.jpg)
