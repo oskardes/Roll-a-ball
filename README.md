@@ -14,7 +14,7 @@ Project is created with:
 * Unity 2020.3.30f1
 * assets from UnityAssets
 
-## Some screen
+## Some screenshoot
 * Menu start
 ![Menu start](./Screenshoot/Roll_a_Ball_KR4F4tMyOa.jpg)
 
